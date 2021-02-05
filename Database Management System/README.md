@@ -53,3 +53,16 @@
 ## Evolution
 
 Relational[1970] ----> In-memory[1996] ----> webscale(noSQL)[2008] ----> vertical[2010]
+
+
+
+## E-R Diagram
+
+**Entity** - 
+**Attribute** -
+**Relationship** -
+
+## ER Model
+
+- It is a graphical representation to view data, relationship and constraints.
+- 
